@@ -1,7 +1,7 @@
 # AdaBooster
 Goal: Implement AdaBoost algorithm on a Weak Learning decision Tree.
 
-Dataset: Heart Disease UCI
+Dataset: Heart Disease UCI.
 Dataset Creators:
 Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
 University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
