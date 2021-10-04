@@ -22,9 +22,15 @@ Steps:
    using the significance, and return the sign of the result.
 
 Results and conclusions:
+
 Decision Tree Model accuracy is:  81.25 %
+
 Logistic Reg. Model accuracy is:  88.02 %
+
 SVM Model accuracy is:  88.02 %
+
 Model accuracy is:  88.54 %
+
 This code demonstrates the power of boosting and using a combination of various ML tools.
+
 Enjoy
